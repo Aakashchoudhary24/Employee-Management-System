@@ -1,2 +1,2 @@
 # Employee-Management-System
-This repo contains the code for our JAVA (OOPS) group project viz. an Employee Management System
+This repository hosts the code for our Java (Object-Oriented Programming) group project, specifically an Employee Management System.
